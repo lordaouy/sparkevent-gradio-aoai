@@ -34,4 +34,3 @@ python app.py
 ## Contributing
 If you want to contribute to this project, please feel free to fork the repository and submit a pull request.
 
-![image](https://user-images.githubusercontent.com/110788250/222911428-20d577c7-86c7-47e4-8985-ef18ae485689.png)
